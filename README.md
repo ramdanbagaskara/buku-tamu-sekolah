@@ -1,10 +1,9 @@
 # Buku Tamu Digital
 ### Ramdan Bagaskara — 240401010090 — IF 405
-# Buku Tamu Digital
-### Ramdan Bagaskara — 240401010090 — IF 405
 
 ## Dokumentasi
-[Klik untuk download laporan](Ramdan Bagaskara 240401010090.pdf)
+[Klik untuk download laporan](Ramdan%20Bagaskara%20240401010090.pdf)
+
 
 ## Screenshot Tampilan
 
