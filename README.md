@@ -10,19 +10,8 @@
 ### Halaman Form Tamu
 ![Form Tamu](form_tamu.png)
 
-### Halaman Daftar Tamu
-![Daftar Tamu](daftar_tamu.png)
-
-### Fitur Pencarian
-![Pencarian](daftar_tamu_cari.png)
-
-## Screenshot Tampilan
-
-### Halaman Form Tamu
-![Form Tamu](form_tamu.png)
-
-### Halaman Daftar Tamu
-![Daftar Tamu](daftar_tamu.png)
-
-### Fitur Pencarian
+### Lanjutan Halaman Form Tamu 
 ![Pencarian](form_tamu2.png)
+
+### Halaman Daftar Tamu
+![Daftar Tamu](daftar_tamu.png)
