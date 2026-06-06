@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS buku_tamu (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- ============================================
--- Contoh Data (opsional – hapus jika tidak perlu)
+-- Contoh Data 
 -- ============================================
 INSERT INTO buku_tamu (nama, instansi, tujuan, tanggal, waktu) VALUES
   ('Budi Santoso',   'Dinas Pendidikan Kota',   'Kunjungan pengawas rutin semester genap',      '2026-06-01', '08:30:00'),
